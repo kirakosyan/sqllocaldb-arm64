@@ -2,5 +2,5 @@
   <Folder Name="/Solution Items/">
     <File Path="../README.md" />
   </Folder>
-  <Project Path="../SQLMigrationArm64/SQLMigrationArm64.csproj" />
+  <Project Path="SQLMigrationArm64/SQLMigrationArm64.csproj" />
 </Solution>
